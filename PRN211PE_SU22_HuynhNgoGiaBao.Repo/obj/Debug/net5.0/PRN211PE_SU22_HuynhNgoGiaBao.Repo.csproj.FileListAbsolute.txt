@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\PRN211PE_SU22_HuynhNgoGiaBao\PRN211PE_SU22_HuynhNgoGiaBao.Repo\bin\Debug\net5.0\PRN211PE_SU22_HuynhNgoGiaBao.Repo.deps.json
+C:\Users\DELL\Desktop\PRN211PE_SU22_HuynhNgoGiaBao\PRN211PE_SU22_HuynhNgoGiaBao.Repo\bin\Debug\net5.0\PRN211PE_SU22_HuynhNgoGiaBao.Repo.runtimeconfig.json
+C:\Users\DELL\Desktop\PRN211PE_SU22_HuynhNgoGiaBao\PRN211PE_SU22_HuynhNgoGiaBao.Repo\bin\Debug\net5.0\PRN211PE_SU22_HuynhNgoGiaBao.Repo.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\PRN211PE_SU22_HuynhNgoGiaBao\PRN211PE_SU22_HuynhNgoGiaBao.Repo\bin\Debug\net5.0\PRN211PE_SU22_HuynhNgoGiaBao.Repo.dll
+C:\Users\DELL\Desktop\PRN211PE_SU22_HuynhNgoGiaBao\PRN211PE_SU22_HuynhNgoGiaBao.Repo\bin\Debug\net5.0\PRN211PE_SU22_HuynhNgoGiaBao.Repo.pdb
+C:\Users\DELL\Desktop\PRN211PE_SU22_HuynhNgoGiaBao\PRN211PE_SU22_HuynhNgoGiaBao.Repo\obj\Debug\net5.0\PRN211PE_SU22_HuynhNgoGiaBao.Repo.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\PRN211PE_SU22_HuynhNgoGiaBao\PRN211PE_SU22_HuynhNgoGiaBao.Repo\obj\Debug\net5.0\PRN211PE_SU22_HuynhNgoGiaBao.Repo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\PRN211PE_SU22_HuynhNgoGiaBao\PRN211PE_SU22_HuynhNgoGiaBao.Repo\obj\Debug\net5.0\PRN211PE_SU22_HuynhNgoGiaBao.Repo.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\PRN211PE_SU22_HuynhNgoGiaBao\PRN211PE_SU22_HuynhNgoGiaBao.Repo\obj\Debug\net5.0\PRN211PE_SU22_HuynhNgoGiaBao.Repo.AssemblyInfo.cs
+C:\Users\DELL\Desktop\PRN211PE_SU22_HuynhNgoGiaBao\PRN211PE_SU22_HuynhNgoGiaBao.Repo\obj\Debug\net5.0\PRN211PE_SU22_HuynhNgoGiaBao.Repo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\PRN211PE_SU22_HuynhNgoGiaBao\PRN211PE_SU22_HuynhNgoGiaBao.Repo\obj\Debug\net5.0\PRN211PE_SU22_HuynhNgoGiaBao.Repo.dll
+C:\Users\DELL\Desktop\PRN211PE_SU22_HuynhNgoGiaBao\PRN211PE_SU22_HuynhNgoGiaBao.Repo\obj\Debug\net5.0\refint\PRN211PE_SU22_HuynhNgoGiaBao.Repo.dll
+C:\Users\DELL\Desktop\PRN211PE_SU22_HuynhNgoGiaBao\PRN211PE_SU22_HuynhNgoGiaBao.Repo\obj\Debug\net5.0\PRN211PE_SU22_HuynhNgoGiaBao.Repo.pdb
+C:\Users\DELL\Desktop\PRN211PE_SU22_HuynhNgoGiaBao\PRN211PE_SU22_HuynhNgoGiaBao.Repo\obj\Debug\net5.0\PRN211PE_SU22_HuynhNgoGiaBao.Repo.genruntimeconfig.cache
+C:\Users\DELL\Desktop\PRN211PE_SU22_HuynhNgoGiaBao\PRN211PE_SU22_HuynhNgoGiaBao.Repo\obj\Debug\net5.0\ref\PRN211PE_SU22_HuynhNgoGiaBao.Repo.dll
